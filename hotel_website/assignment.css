@@ -1,0 +1,46 @@
+#header {
+    background-color:#A60000;
+    color:white;
+    text-align:center;
+    padding:5px;
+	border-style: solid;
+	border-color: white;
+}
+#nav {
+    line-height:30px;
+    background-color: #e62e00;
+	color: white;
+    height:600px;
+    width:200px;
+    float:left;
+    padding:5px;
+	border-style: solid;
+	border-color: white;
+}
+#section {
+    float:left;
+    padding:10px;
+	color: white;
+}
+#footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+   padding:5px;	 	 
+}
+body{
+	background-color:#e67300;
+}
+a{
+	color: white;
+}
+
+a:hover{
+	color:grey;
+	background-color: white;
+}
+
+.error {
+			color:yellow;
+		}
