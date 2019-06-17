@@ -5,7 +5,6 @@
  * To use this script ensure you have filled in your TWA username and database password
  */
 
-$conn=mysqli_connect("localhost", "twa260", "twa260ym", "westernhotel260");
 if ( !$conn ) {
 	die("Connection failed: " . mysqli_connect_error());
 }
